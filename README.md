@@ -14,6 +14,8 @@ Models implemented on `/image_classification/models`.
 - VggNet. https://doi.org/10.48550/arXiv.1409.1556
 
 ### Datasets:
+Dataset employed for comparison:
+
 - MiniImageNet: https://cseweb.ucsd.edu/~weijian/static/datasets/mini-ImageNet
 
 
@@ -25,4 +27,6 @@ Models implemented on `/semantic_segmentation/models`.
 - SegNet. https://arxiv.org/abs/1411.4038
 
 ### Dataset
+Dataset employed for comparison:
+
 - FreiHand: https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html
