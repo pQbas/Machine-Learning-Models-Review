@@ -10,7 +10,11 @@ A implementation of Deep Learning models using the deep learning framwork Pytorc
 - NiN.
 - VggNet.
 
+
 ## Semantic Segmentation Models
 
-- FullyConvNet.
-- SegNet.
+- FullyConvNet. https://arxiv.org/abs/1511.00561
+- SegNet. https://arxiv.org/abs/1411.4038
+
+### Dataset
+- FreiHand: https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html
