@@ -4,6 +4,9 @@ A implementation of Deep Learning models using the deep learning framwork Pytorc
 
 ## Image Classification Models
 
+Models implemented on `/image_classification/models`.
+
+
 - AlexNet. https://papers.nips.cc/paper_files/paper/2012
 - GoogleNet.https://doi.org/10.48550/arXiv.1409.4842
 - InceptionResNet. https://doi.org/10.48550/arXiv.1602.07261
@@ -15,6 +18,8 @@ A implementation of Deep Learning models using the deep learning framwork Pytorc
 
 
 ## Semantic Segmentation Models
+Models implemented on `/semantic_segmentation/models`.
+
 
 - FullyConvNet. https://arxiv.org/abs/1511.00561
 - SegNet. https://arxiv.org/abs/1411.4038
